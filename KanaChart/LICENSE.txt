@@ -1,0 +1,19 @@
+GFDL: https://www.gnu.org/licenses/fdl-1.3.html
+CC-BY-SA: https://creativecommons.org/licenses/by-sa/4.0/
+
+These licenses apply to:
+- T_KanaStudy_Hiragana.svg
+- T_KanaStudy_Katakana.svg
+- T_KanaStudy_Kana.psd
+
+Attribution:
+- Original Author: Karine WIDMER (http://www.escale-japon.com)
+
+- Source:
+- - https://commons.m.wikimedia.org/wiki/File:Table_hiragana.svg
+- - https://commons.m.wikimedia.org/wiki/File:Table_katakana.svg
+
+- Modifications:
+- - Document was reconfigured.
+- - Vector paths were modified.
+- - Colorization.
